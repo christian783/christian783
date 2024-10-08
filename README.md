@@ -58,8 +58,8 @@ It can be integrated into various applications to automate sentiment analysis, p
 ---
 
 ## 📫 Get in Touch
-- **LinkedIn**: [Christian-Tuyishime](www.linkedin.com/in/christian-tuyishime-b03b7429b)
-- **GitHub**: [christian783](https://github.com/christian783/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/christian-tuyishime-b03b7429b)
+- **GitHub**: [Github Profile](https://github.com/christian783/)
 - **Email**: [my E-mail](mailto:christiantc@gmail.com)
 
 Feel free to reach out for job opportunities, collaborations, or technical discussions. I’m always excited to work on new challenges!
